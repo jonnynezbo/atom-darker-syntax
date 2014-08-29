@@ -1,5 +1,5 @@
 # atom-darker-syntax theme
 
-A short description of your theme.
+This is the Atom Dark syntax theme with a black background.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![A screenshot of your theme](https://dl.dropboxusercontent.com/spa/w9y331nq8d0g5zi/1sqafxon.png)
