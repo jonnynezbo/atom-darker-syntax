@@ -1,4 +1,4 @@
-# atom-darker-syntax theme
+# Atom Darker Syntax Theme
 
 This is the Atom Dark syntax theme with a black background.
 
