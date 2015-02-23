@@ -1,7 +1,7 @@
 {
   "name": "atom-darker-syntax",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "The Atom Dark syntax theme with a black background",
   "repository": "https://github.com/jonnynezbo/atom-darker-syntax",
   "license": "MIT",
