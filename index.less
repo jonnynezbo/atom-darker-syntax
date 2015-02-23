@@ -1,11 +1,9 @@
 @import 'syntax-variables';
 
-.editor-colors {
+:host, atom-text-editor {
   background-color: @syntax-background-color;
   color: @syntax-text-color;
-}
-
-.editor {
+  
   .invisible-character {
     color: @syntax-invisible-character-color;
   }
@@ -102,7 +100,7 @@
   }
 }
 
-.bracket-matcher {
+.bracket-matcher .region {
   border-bottom: 1px solid #f8de7e;
   margin-top: -1px;
   opacity: .7;
